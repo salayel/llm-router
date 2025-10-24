@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[user]
+	name = Arthur Colucci
+	email = votre-email-personnel@example.com
+[remote "origin"]
+	url = https://github.com/salayel/llm-router.git
+	fetch = +refs/heads/*:refs/remotes/origin/*

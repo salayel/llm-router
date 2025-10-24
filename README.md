@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LLM Router
 
 A flexible routing layer for managing multiple LLM providers (OpenAI, Anthropic, Google, etc.)
@@ -55,3 +56,6 @@ pytest
 MIT
 
 
+=======
+# llm-router
+>>>>>>> c66036023a319eeb4fb1e9b9b5bcc6971891c805
